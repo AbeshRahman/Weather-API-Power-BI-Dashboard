@@ -22,3 +22,4 @@ The report uses cards, charts, slicers, and conditional formatting to enhance re
 This project demonstrates real-time analytics capabilities using Power BI and APIs. It reflects practical skills in data integration, transformation, modeling, and dashboard design—skills highly relevant for data analyst and business intelligence roles. The project significantly strengthened my hands-on understanding of API-driven reporting and Power BI best practices.
 
 The Dashboard Looks like this: ![Dashboard Preview](https://github.com/AbeshRahman/Weather-API-Power-BI-Dashboard/blob/main/Screenshot%20-%20Dhaka%20Weather.png)
+![Dashboard Preview](https://github.com/AbeshRahman/Power-BI-Weather-API-Dashboard/blob/main/Screenshot%20-%20London%20Weather.png)
